@@ -1,135 +1,80 @@
-A collective document for the five amigos
-=========================================
+# A collective document for the five amigos
 
-A collective document for the five amigos
-
-A place to upload and structure our shared thoughts (asychronously)
--------------------------------------------------------------------
-
-A place to upload and structure our shared thoughts (asychronously)
-
-\
+## A place to upload and structure our shared thoughts (asychronously)
 
 ### Mi dubas, do mi pensas, do mi estas
 
-Mi dubas, do mi pensas, do mi estas
-
-\
-Microsoft might be good for the job but it's certainly not the future.\
-\
+Microsoft might be good for the job but it's certainly not the future.
 
 #### We really should be doing this in git ... Stef can you set up a git hub repo for us? (Alan Mikey Stef and others???)
 
-\
 One that we can share... and practice our git and markdown skills ...
-and not forgetting Esperanto\
-\
-Some of us could try Vim and Tmux\
-\
-Others SSL\
-\
-**Alan are you in?**\
-\
-Alan - So what have you found out about markdown?\
-\
-What is markdown?\
-\
-And what version should we be using?\
-\
-... by the by, I am working on the concept of my Retirement (althogh i'd
-prefer to use a word that is age neutral)\
-\
+and not forgetting Esperanto
 
-1.  Start using Kanban - any reasons for Kanban - thought this was
-    stock 
-2.  control similar to JIT or MPR2  - maybe look at agile and waterfall
-    for software development 
+Some of us could try Vim and Tmux
 
-\
-it is ... where the stock ... is code and to do tasks\
-\
+Others SSL
 
-What is Agile?
---------------
+**Alan are you in?**
 
-\
-<https://en.wikipedia.org/wiki/Agile_management>\
-\
+Alan - So what have you found out about markdown?
 
-What is Kanban?
----------------
+What is markdown?
 
-\
-<https://en.wikipedia.org/wiki/Kanban>\
-\
-Watch this video and be inspired\
-\
-<http://www.youtube.com/watch?v=CKWvmiY7f_g&sns=em>\
-\
-\
-Kanban is trello ??? - what is trello ??\
-\
+And what version should we be using?
 
-What is Trello?
----------------
+... by the by, I am working on the concept of my Retirement (although I'd
+prefer to use a word that is more age neutral)
 
-\
-<https://en.wikipedia.org/wiki/Trello>\
-\
-\*\
-\
-have you not used trello?\
-\
-No we use waterfall and agile \
-\
-Yes Kanban is a part of agile me thinks\
-\
+Start using Kanban - any reasons for Kanban - thought this was stock control similar to JIT or MPR2  - maybe look at agile and waterfall for software development 
+
+it is ... where the stock ... is code and to do tasks
+
+## What is Agile?
+
+<https://en.wikipedia.org/wiki/Agile_management>
+
+## What is Kanban?
+
+<https://en.wikipedia.org/wiki/Kanban>
+
+Watch this video and be inspired ...
+
+<http://www.youtube.com/watch?v=CKWvmiY7f_g&sns=em>
+
+Kanban is trello ??? - what is trello ??
+
+## What is Trello?
+
+<https://en.wikipedia.org/wiki/Trello>
+
+have you not used trello? 
+No we use waterfall and agile
+
+
+Yes Kanban is a part of agile me thinks
 
 1.  Sing to raise the spirits of students and staff- is this a serious
     suggestion?
 
-\
-Not sure on how to make money but this is a bit more open than padlet or
-google docs but like the collobration aspect \
-\
+Not sure on how to make money but this is a bit more open than padlet or google docs but like the collobration aspect
 
-What is Padlet?
----------------
+## What is Padlet?
 
-\
-&gt;&gt;&gt;\
-\
+## What is the waterfall method?
 
-What is the waterfall method?
------------------------------
+<https://en.wikipedia.org/wiki/Waterfall_model>
 
-\
-<https://en.wikipedia.org/wiki/Waterfall_model>\
-\
+## Elearning
 
-Elearning
-=========
+### Teach Coding
 
-\
+<https://repl.it/>
 
-Coding
-------
+##Some random thoughts ...
 
-\
-<https://repl.it/>\
-\
-\
+### Memory
 
-Some random thoughts ...
-========================
+<http://elearninginfographics.com/wp-content/uploads/Memory-Retention-and-the-Forgetting-Curve-Infographic-550x575.png>
 
-\
-
-Memory
-------
-
-\
-<http://elearninginfographics.com/wp-content/uploads/Memory-Retention-and-the-Forgetting-Curve-Infographic-550x575.png>\
-\
-\
 
