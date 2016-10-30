@@ -1,0 +1,50 @@
+*A collective document for the five amigos
+
+*A place to upload and structure our shared thoughts (asychronously)
+
+*Mi dubas, do mi pensas, do mi estas
+
+
+All previous thoughts have been added to github
+
+Some thoughts (and some testing of the export function)
+
+I thought we could use this place as a live (and asynchronous) sounding board.
+
+Instead of this perhaps we could vim and tmux over ssh ... or mosh?
+
+Something that is both live and asynchronous ... and creates a document.
+
+We really should be using markdown here
+
+I wish this would output in MarkDown. Is there another solution.
+
+Problem with padlet is that we cant export it as a final webpage or markdown file
+
+<<<testing>>>
+
+*A list
+
+	* water
+	* land
+	* air
+
+*A thought ...
+
+What do you think?
+
+OK, how about we look at learning python ... the 42 way(no teachers) ... using all the learning tech that is freely available to us? In the process we produce a resource that can be used by others plus we learn something about what it is to do true collabortive e-learning ... the three amigo way.
+
+Here are some constarints (to make it more exciting) ...
+
+Vim and/or Atom
+Tmux
+Mosh
+Markdown
+git and gitHub
+
+OK so where do we start?
+
+I think we already have.
+
+
