@@ -1,0 +1,22 @@
+{
+  "TheThreeAmigos": {
+    "name": "TheThreeAmigos",
+    "numberOfColumns": 3,
+    "columns": [
+      {
+        "name": "Column 1",
+        "cards": []
+      },
+      {
+        "name": "Column 2",
+        "cards": []
+      },
+      {
+        "name": "Column 3",
+        "cards": []
+      }
+    ],
+    "archived": [],
+    "settings": {}
+  }
+}

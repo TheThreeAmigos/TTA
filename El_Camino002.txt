@@ -7,6 +7,8 @@
 
 All previous thoughts have been added to github
 
+I am saving this to El_Camino002.txt.
+
 Some thoughts (and some testing of the export function)
 
 I thought we could use this place as a live (and asynchronous) sounding board.
@@ -46,5 +48,15 @@ git and gitHub
 OK so where do we start?
 
 I think we already have.
+
+Wow ... Have you seen GitBooks?
+
+... and NetCat?
+
+This computer stuff is cool.
+
+I wish the web and youtube was around when I was a student.
+
+I'm using this area as a collective brain dump. I hope that is OK with everyone?
 
 
